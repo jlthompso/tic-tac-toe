@@ -1,0 +1,32 @@
+table {
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+td {
+    border-width: 3px;
+    width: 50px;
+    height: 50px;
+}
+
+#g1, #g7 {
+    border-style: none solid;
+}
+
+#g3, #g5 {
+    border-style: solid none;
+}
+
+#g4 {
+    border-style: solid;
+}
+
+#player {
+    position: relative;
+    margin: 20px auto;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
