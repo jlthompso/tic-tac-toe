@@ -11,15 +11,15 @@ td {
     height: 50px;
 }
 
-#g1, #g7 {
+#g01, #g21 {
     border-style: none solid;
 }
 
-#g3, #g5 {
+#g10, #g12 {
     border-style: solid none;
 }
 
-#g4 {
+#g11 {
     border-style: solid;
 }
 
@@ -29,4 +29,9 @@ td {
     text-align: center;
     font-size: large;
     font-weight: bold;
+}
+
+button {
+    display: block;
+    margin: auto;
 }
